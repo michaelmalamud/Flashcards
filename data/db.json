@@ -1,0 +1,125 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "dsdas",
+      "description": "sdasdasdadas",
+      "id": 4
+    },
+    {
+      "name": "dsdasdsa",
+      "description": "dsadasdsadsadas",
+      "id": 5
+    },
+    {
+      "name": "sadasd",
+      "description": "sadsadasdadsadsa",
+      "id": 6
+    },
+    {
+      "name": "dsadsadasd",
+      "description": "dsadsadsadasdsadsad",
+      "id": 7
+    },
+    {
+      "name": "xzxzx",
+      "description": "zxcxzcxzcxzc",
+      "id": 8
+    },
+    {
+      "name": "adsdasd",
+      "description": "sadsadasdsadsa",
+      "id": 9
+    },
+    {
+      "name": "dsdsadsa",
+      "description": "dasdsadasdasdasf",
+      "id": 10
+    },
+    {
+      "name": "dvdtttt",
+      "description": "32424",
+      "id": 15
+    },
+    {
+      "name": "dcdcdcdsc",
+      "description": "cdcsdcsccdscdcdscsdc",
+      "id": 16
+    },
+    {
+      "name": "dfdferfrefff",
+      "description": "rfd",
+      "id": 18
+    },
+    {
+      "name": "dsdsds",
+      "description": "fdsfdsfdsfsdfsd",
+      "id": 19
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "blue",
+      "back": "red",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "eat my dust",
+      "back": "tralalala",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "dsad",
+      "back": "dasdsa",
+      "deckId": 4,
+      "id": 9
+    },
+    {
+      "front": "dsadd",
+      "back": "dasdsadsad",
+      "deckId": 7,
+      "id": 10
+    },
+    {
+      "front": "sdsds",
+      "back": "dsdadsa",
+      "deckId": 1,
+      "id": 11
+    },
+    {
+      "front": "hththtrgrgegregre",
+      "back": "trgrgrtg",
+      "deckId": 1,
+      "id": 12
+    }
+  ]
+}
